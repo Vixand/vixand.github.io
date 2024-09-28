@@ -4,8 +4,11 @@
 
 [![Telegram](https://openipc.org/images/telegram_button.svg)][telegram]
 
+
+## Каталог доступных устройств
+
 - ⚡ [Плата домофонной системы OpenIPC на базе процессора Ingenic T21N](/#плата-домофонной-системы-openipc-на-базе-процессора-ingenic-t21n)
-- ⚡ [Плата видео-передатчика OpenIPC на базе процессора SigmaStar SSC30KQ](#плата-видео-передатчика-openipc-на-базе-процессора-sigmastar-ssc30kq)
+- ⚡ [Плата видео-передатчика OpenIPC на базе процессора SigmaStar SSC30KQ](/#плата-видео-передатчика-openipc-на-базе-процессора-sigmastar-ssc30kq)
 
 
 ## Плата домофонной системы OpenIPC на базе процессора Ingenic T21N
