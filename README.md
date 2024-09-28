@@ -1,5 +1,5 @@
 
-## Demo
+## Магазинчик для любителей OpenIPC
 
 - 👋 Hi, I’m @vixand
 - 👀 I’m interested in ...
@@ -9,7 +9,22 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<!---
-vixand/vixand is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+## Плата домофонной системы OpenIPC на базе процессора Ingenic T21N
+
+- А
+- Б
+- В
+- Г
+
+#### Цена на 2024.10.01 - 1500 руб.
+
+
+## Плата видео-передатчика OpenIPC на базе процессора SigmaStar SSC30KQ
+
+- А
+- Б
+- В
+- Г
+
+#### Цена на 2024.10.01 - 2000 руб.
