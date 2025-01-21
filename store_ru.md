@@ -4,7 +4,7 @@
 
 [![Telegram](https://openipc.org/images/telegram_button.svg)][telegram]
 
-- **Обработка полностью предоплаченных товаров в заказах происходит каждый третий день**
+- **Обработка полностью предоплаченных заказов происходит один раз в три дня**
 - **Отправка товаров по РФ выполняется только компанией CDEK**
 - **Оформление и подтверждение заказа происходит по электронной почте <a href="mailto:vixand@openipc.ru?cc=vixand@openipc.ru&bcc=vixand@openipc.ru&subject=VixandSroe&body=Test mail!">vixand@openipc.ru</a>**
 
