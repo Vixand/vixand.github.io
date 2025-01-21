@@ -26,6 +26,13 @@ Tiandy TC-C321N  SPEC:I3/E/Y/2.8mm
 - ⚡ Откиньтесь на спинку кресла и расслабьтесь в предвкушении OpenIPC
 
 
+### Статистика успешных инсталляций на 2025.01.21
+```
+- Tiandy TC-C32QN - 102 шт.
+- Tiandy TC-C321N - 104 шт.
+```
+
+
 [logo]: https://openipc.org/assets/openipc-logo-black.svg
 [telegram]: https://t.me/openipc_modding
 [website]: https://openipc.org
