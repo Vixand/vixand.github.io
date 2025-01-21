@@ -5,7 +5,7 @@
 [![Telegram](https://openipc.org/images/telegram_button.svg)][telegram]
 
 
-### Совместимые устройства
+### Совместимые и проверенные устройства на 2025.01.21
 ```
 Tiandy TC-C32QN  SPEC:I3/E/Y/2.8mm/V5.1 | Производитель устанавливает процессоры GK7205V200 и GK7205V210
 Tiandy TC-C321N  SPEC:I3/E/Y/2.8mm      | Производитель устанавливает процессор GK7205V200
