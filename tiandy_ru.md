@@ -32,5 +32,5 @@
 
 
 [logo]: https://openipc.org/assets/openipc-logo-black.svg
-[telegram]: https://geekporn
+[telegram]: https://t.me/co_sysop
 [website]: https://openipc.org
